@@ -1,22 +1,27 @@
 # Project Name:
-Visualization Dashboard
+Dashboard
 
 # Website:
-https://visualization-dashboard.netlify.app/
+https://new-dashboard-assignment.netlify.app/
 
-
-### Server Side Link:
-https://cryptic-castle-18002.herokuapp.com
-https://cryptic-castle-18002.herokuapp.com/info
 
 
 ## GitHub Links:
-https://github.com/JawadJisan/-Visualization-Dashboard-Client
+https://github.com/JawadJisan/dashboard
 
-https://github.com/JawadJisan/Visualization-Dashboard-Server
+
 
 
 ### Features :-
+
+
+• charts
+
+• calender
+
+• editor
+
+• color picker
 
 • syncfusion
 
@@ -32,6 +37,6 @@ https://github.com/JawadJisan/Visualization-Dashboard-Server
 • Deploy Tools : Netlify , Heroku, Github.
 
 <!--  -->
-![image](https://i.ibb.co/VSG0GnV/Untitled-1.jpg)
+![image](https://i.ibb.co/mD28Pp3/screencapture-localhost-3000-2022-08-13-17-40-29.png)
+![image](https://i.ibb.co/0yZPvMW/screencapture-localhost-3000-2022-08-13-17-40-47.png)
 
-# dashboard
